@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-81l84v.biggamingwin.online/sitemap.xml
